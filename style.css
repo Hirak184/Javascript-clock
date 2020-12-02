@@ -1,0 +1,17 @@
+#container{
+    background-color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+#time{
+    background-color: yellow;
+    text-align: left;
+    font-size: 50px;
+}
+#background{
+    background-color:yellow;
+    margin: 80px;
+}
+body{
+    background-color:orangered;
+}
